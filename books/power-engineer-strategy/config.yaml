@@ -1,17 +1,51 @@
-title: "エンジニアとしての誇りを取り戻す：組織の力学を掌握し、主導権と自由を勝ち取る全技術"
-summary: "防弾資料術と統計的交渉で「150時間残業」の泥沼を脱し、主導権を奪還する生存戦略"
-topics: ["エンジニア", "キャリア", "設計", "製造業", "DX"]
-published: false
-price: 1480
+title: "150時間残業の泥沼から、主導権を奪還せよ：年収1200万を実現する希少人材の生存戦略"
+author: "執筆者名（あなたのペンネーム）"
+language: "ja"
+
+structure:
+  readme: 00_preface.md
+
 chapters:
-  - 00_introduction
-  - 01_chapter1
-  - 02_chapter2
-  - 03_chapter3
-  - 04_chapter4
-  - 05_chapter5
-  - 06_chapter6
-  - 07_chapter7
-  - 08_chapter8
-  - 09_chapter9
-  - 10_afterword
+  - title: "まえがき"
+    file: 00_preface.md
+
+  - title: "第1章：150時間残業の『泥沼』を仕組みで破壊する"
+    file: 01_chapter1.md
+
+  - title: "第2章：防弾資料術：論理の『穴』を自ら埋め、主導権を握る"
+    file: 02_chapter2.md
+
+  - title: "第3章：統計的判断：現場の『なんとなく』を数値で制圧する"
+    file: 03_chapter3.md
+
+  - title: "第4章：境界設計の極意：ABC判定でリスクをパッキングせよ"
+    file: 04_chapter4.md
+
+  - title: "第5章：情報の非対称性を突く：一括承認を勝ち取る包囲網"
+    file: 05_chapter5.md
+
+  - title: "第6章：最大枠の合意術：数千万の試験費用を守り抜く"
+    file: 06_chapter6.md
+
+  - title: "第7章：資産型DX：非付加価値業務を殲滅する社内政治"
+    file: 07_chapter7.md
+
+  - title: "第8章：現場掌握術：権限なき実務者の『信頼資本』"
+    file: 08_chapter8.md
+
+  - title: "第9章：出口戦略：30代で年収1200万を実現する希少人材の型"
+    file: 09_chapter9.md
+
+  - title: "付録：実戦投入用・防弾テンプレート集"
+    file: 10_appendix.md
+
+  - title: "あとがき"
+    file: 11_afterword.md
+
+plugins:
+  - "-sharing"
+  - "fontsettings"
+  - "theme-default"
+
+styles:
+  website: styles/website.css
