@@ -5,7 +5,7 @@ published: false
 price: 0 # 有料にする場合は金額を設定
 
 chapters:
-  - 00_preface
+  - 00_introduction.md
   - 01_chapter1
   - 02_chapter2
   - 03_chapter3
