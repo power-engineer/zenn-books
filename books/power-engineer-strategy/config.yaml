@@ -6,7 +6,7 @@ published: false
 price: 1000
 
 chapters:
-  - 00_preface
+  - 00_introduction.md
   - 01_chapter1
   - 02_chapter2
   - 03_chapter3
